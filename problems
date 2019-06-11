@@ -2,8 +2,8 @@
 # the other. Write a function called is_anagram that takes two strings and
 # returns True if they are anagrams.
 
-stringOne = "events"
-stringTwo = "steven"
+stringOne = "boom"
+stringTwo = "doom"
 
 
 def is_anagram(stringOne, stringTwo):
