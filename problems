@@ -1,3 +1,16 @@
+#problem 1
+
+#Write a function named right_justify that takes a string named s as a parameter and prints the
+#string with enough leading spaces so that the last letter of the string is in column 70 of the
+#Display.
+
+def right_justify(s):
+    print "%70s" % s
+
+
+
+#problem 3
+
 # Two words are anagrams if you can rearrange the letters from one to spell
 # the other. Write a function called is_anagram that takes two strings and
 # returns True if they are anagrams.
