@@ -16,10 +16,7 @@ def right_justify(s):
 # to any in its column. There may be more than one saddle point in the array. Return a list (vector, array)
 # of coordinates of any saddle points your program finds. Return empty list if there are none.
 
-
-
-
-
+def saddle_points(matrix: Sequence[Sequence[int]]) -> Set[Tuple[int, int]]:
 
 
 
